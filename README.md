@@ -29,7 +29,7 @@ A voice assistant is a digital assistant that uses voice recognition, speech syn
   <li>python main.py</li>
 </ol>
 
-##Note:
+## Note:
 
 1. Requires Python 3.0 and above
 2. Requires an active internet connection for speech recogition functions
